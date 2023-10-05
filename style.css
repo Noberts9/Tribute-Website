@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 2px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan',sans-serif;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 42px;
+    font-style: oblique;
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman';
+    
+}
+h2{
+    color: chocolate;
+    align-items: start;
+    justify-content: center;
+}
+h5{
+    color: burlywood;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Lucida Grande';
+}
+#img{
+    display: flex;
+    align-content: center;
+    border-radius: 50px;
+}
+#img-caption{
+    font-weight: normal;
+    font-size: 20px;
+    font-family: 'Courier New';
+}
+#caption{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+li{
+    font-size: bold;
+    color: chocolate;
+}
